@@ -1,16 +1,8 @@
 # trackorder
+This application is a mobile order tracker designed to monitor and update the status and progress of orders
 
-A new Flutter project.
+To modify the order status, a message is transmitted through the Ably dashboard on the designated channel named 'order.' The message can take on values ranging from 1 to 6, representing different states depending on the current status of the order."
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+.
