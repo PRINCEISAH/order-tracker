@@ -29,5 +29,6 @@ List<StepperData> orderStatusData = [
       title: "Order arrived",
       index: 4,
       subtitle: "Dont keep the rider waiting"),
-  StepperData(title: "Order delivered", index: 3, subtitle: "Enjoy"),
+  StepperData(
+      title: "Order delivered", index: 3, subtitle: "Enjoy your ice cream"),
 ];
